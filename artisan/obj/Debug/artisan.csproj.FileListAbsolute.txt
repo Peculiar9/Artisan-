@@ -1,0 +1,6 @@
+C:\Users\PECSI\Documents\Projects 3nd Semester\artisan\artisan\bin\Debug\artisan.exe.config
+C:\Users\PECSI\Documents\Projects 3nd Semester\artisan\artisan\obj\Debug\artisan.csprojResolveAssemblyReference.cache
+C:\Users\PECSI\Documents\Projects 3nd Semester\artisan\artisan\bin\Debug\artisan.exe
+C:\Users\PECSI\Documents\Projects 3nd Semester\artisan\artisan\bin\Debug\artisan.pdb
+C:\Users\PECSI\Documents\Projects 3nd Semester\artisan\artisan\obj\Debug\artisan.exe
+C:\Users\PECSI\Documents\Projects 3nd Semester\artisan\artisan\obj\Debug\artisan.pdb
